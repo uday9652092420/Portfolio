@@ -216,3 +216,48 @@ footer {
         padding: 3rem 0;
     }
 }
+
+/* About Section Styles */
+.about-intro {
+    text-align: center;
+    border-bottom: 3px solid #667eea;
+    padding-bottom: 1.5rem;
+}
+
+.about-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    border-left: 4px solid #667eea;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    margin-bottom: 1rem;
+}
+
+.about-card h5 {
+    color: #667eea;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.about-card ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about-card li {
+    padding: 0.5rem 0;
+    color: #555;
+}
+
+.about-card li:before {
+    content: "✓ ";
+    color: #667eea;
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+
+.about-summary {
+    border-left: 4px solid #764ba2;
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
