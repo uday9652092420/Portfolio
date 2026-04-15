@@ -1,6 +1,6 @@
 # Chennoju Uday Kumar - Portfolio
 
-A simple, responsive portfolio website built with HTML, CSS, and Bootstrap.
+#A modern, responsive personal portfolio website designed to showcase my skills, projects, and professional background as a software developer. Built with a focus on clean UI, accessibility, and user-friendly navigation.
 
 ## Features
 - Responsive design using Bootstrap
